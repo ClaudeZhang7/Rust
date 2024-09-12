@@ -9,7 +9,8 @@
 * cargo run : lance le projet 
 * cargo check : vérifie que le projet est compilable
 * cargo build --release : pour le déploiement
-* cargo update : met à jour la version
+* cargo update : met à jour les dépendances
+* cargo add nomPaquet : ajoute une dépendance
 
 
 **Commandes rustc :**
